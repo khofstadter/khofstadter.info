@@ -6,7 +6,7 @@ short: A 15 credit module that allowed students to create original music and sou
 new-date: Sep 2018 - Feb 2019
 ---
 
-More info at [https://m4mi.khofstadter.info/aru2018](https://m4mi.khofstadter.info/aru2018).
+More info at [https://m4mi.khofstadter.com/aru2018](https://m4mi.khofstadter.com/aru2018).
 
 <br>
 <br>
