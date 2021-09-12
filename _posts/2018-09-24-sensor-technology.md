@@ -8,7 +8,7 @@ new-date: Sep 2011 - Feb 2019
 
 I tutored this module for four times between 2011 and 2019. My initial teaching was based on [Richard Hoadley](http://rhoadley.net/)'s syllabus, which I adjusted to my own expertise in consecutive years. 
 
-To most up to date information about the module can be found at [https://stech.khofstadter.info/aru2018](https://stech.khofstadter.info/aru2018)
+To most up to date information about the module can be found at [https://stech.khofstadter.com/aru2018](https://stech.khofstadter.com/aru2018)
 
 <br>
 <br>

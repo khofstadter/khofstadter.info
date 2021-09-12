@@ -1,18 +1,28 @@
-# khofstadter.info
+# khofstadter.com
 My personal website.
+
+- add szinusz podcast
+- sync cv, website and linkedin
 
 ## system
 - sort out bundle, gemfile and sitemap issue
 - do we need Google Analytics? if yes, maybe .info needs to be changed to .com
 - do we need disqus?
+- add related links part to each post
 
 ## todo
 - add filter to group posts where related links need to be displayed;
 - flyers missing in MPA research organising post
 
-## system
-- make new (clean) repo (that does not look cloned)
-- add related links part to each post
+## tag filter
+<!-- this comment could not be kept in the index file: 
+
+<div id="tags" class="tabcontent"> 
+{% include index-tags.html %}
+</div> 
+
+
+-->
 
 ## content
 - add 140 short for each contineu with EDM music production;

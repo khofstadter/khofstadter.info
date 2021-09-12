@@ -2,6 +2,7 @@
 title: tEdör aka Krisztián Hofstädter
 layout: default
 ---
+
 Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. This website informs you about my work. My cv is [here](https://khofstadter.com/assets/doc/KHofstader-CV.pdf).
 
 <div class="tab">
@@ -9,8 +10,12 @@ Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologi
   
   <button class="tablinks" onclick="openCity(event, 'categories')">by main theme</button>
   or 
-  <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen" >chronologically</button> or 
+  <button class="tablinks" onclick="openCity(event, 'time')" id="defaultOpen" >chronologically</button> 
+  
+  <!--
+  or 
   <button class="tablinks" onclick="openCity(event, 'tags')">by tags</button>
+  -->
   
 </div>
 
@@ -25,9 +30,6 @@ Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologi
   {% include index-cat.html %}
 </div>
 
-<div id="tags" class="tabcontent">
-  {% include index-tags.html %}
-</div>
 
 <br>
 

@@ -16,6 +16,7 @@ there is also a file added in layouts: external.html and the posts amended accor
         <label for="node2++{{ forloop.index }}" data-idx='2++{{ forloop.index }}'>{{ post.date | date: "%Y" }} {{ post.title }}</label>
         <ul>
           <li>
+            <br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>{{post.categories[0]}}</em>
           <br><br>
           <div class="short"> {{ post.short }}</div>
