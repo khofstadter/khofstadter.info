@@ -1,4 +1,4 @@
-I"�9<p>Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. This website informs you about my work. My cv is <a href="https://khofstadter.com/assets/doc/KHofstader-CV.pdf">here</a>.</p>
+I"��<p>Hello! My name is Krisztián Hofstädter, aka tEdör. I am a creative technologist working as a researcher, lecturer, freelancer and artist. This website informs you about my work. My cv is <a href="https://khofstadter.com/assets/doc/KHofstader-CV.pdf">here</a>.</p>
 
 <div class="tab">
   organised
@@ -29,7 +29,24 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     <li>
     <input id="node1++1" name="node" class="node" type="radio" />
-        <label for="node1++1" data-idx="1++1">storylabresearch.com</label>
+        <label for="node1++1" data-idx="1++1">navigating the digital world</label>
+      <ul>
+        <li>
+          <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
+          <br /><br />
+          <div class="short"> The module aims to help develop our personal and professional/institutional resident identities on the Web i.e. resident modes of engaging on the Web.</div>
+          <br />
+          <a href="https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world"> <svg height="15" viewBox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+    
+    
+    
+    <li>
+    <input id="node1++2" name="node" class="node" type="radio" />
+        <label for="node1++2" data-idx="1++2">storylabresearch.com</label>
       <ul>
         <li>
           <br />
@@ -45,14 +62,14 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-    <input id="node1++2" name="node" class="node" type="radio" />
-        <label for="node1++2" data-idx="1++2">enhancing audio description</label>
+    <input id="node1++3" name="node" class="node" type="radio" />
+        <label for="node1++3" data-idx="1++3">enhancing audio description</label>
       <ul>
         <li>
           <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>academic</em>
           <br /><br />
-          <div class="short"> In this AHRC funded project, we sought to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences. The research included the application of surround sound rendering, interactive media systems and first person narration. My key responsibilities were organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web-design and maintenance, photography, audio-video production and co-authoring journal papers.</div>
+          <div class="short"> In this AHRC funded project, we seek to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences.</div>
           <br />
           <a href="http://enhancingaudiodescription.com/people/"> <svg height="15" viewBox="0 0 1792 1792" width="15" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
@@ -62,8 +79,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-    <input id="node1++3" name="node" class="node" type="radio" />
-        <label for="node1++3" data-idx="1++3">doctoral thesis</label>
+    <input id="node1++4" name="node" class="node" type="radio" />
+        <label for="node1++4" data-idx="1++4">doctoral thesis</label>
       <ul>
         <li>
           <br />
@@ -79,8 +96,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-    <input id="node1++4" name="node" class="node" type="radio" />
-        <label for="node1++4" data-idx="1++4">rhea quien</label>
+    <input id="node1++5" name="node" class="node" type="radio" />
+        <label for="node1++5" data-idx="1++5">rhea quien</label>
       <ul>
         <li>
           <br />
@@ -96,8 +113,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-    <input id="node1++5" name="node" class="node" type="radio" />
-        <label for="node1++5" data-idx="1++5">tedör tea | art &amp; tea</label>
+    <input id="node1++6" name="node" class="node" type="radio" />
+        <label for="node1++6" data-idx="1++6">tedör tea | art &amp; tea</label>
       <ul>
         <li>
           <br />
@@ -129,11 +146,16 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       
+      
+      
+      
+      
       <li>
-        <input id="node2++2" name="node" class="node" type="radio" />
-        <label for="node2++2" data-idx="2++2">2021 regions of learning consulting</label>
+        <input id="node2++3" name="node" class="node" type="radio" />
+        <label for="node2++3" data-idx="2++3">2021 regions of learning consulting</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>academic</em>
           <br /><br />
           <div class="short"> As an academic researcher at the Anglia Ruskin University, I was consulting the Regions of Learning project run by Cambridge City Council. My tasks involved researching hardware and software technologies that allow registering attendance of young adults accessing learning activities at a variety of venues.</div>
@@ -148,10 +170,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++3" name="node" class="node" type="radio" />
-        <label for="node2++3" data-idx="2++3">2020 multilingual website workshops</label>
+        <input id="node2++4" name="node" class="node" type="radio" />
+        <label for="node2++4" data-idx="2++4">2020 multilingual website workshops</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
           <br /><br />
           <div class="short"> I delivered two workshops on setting up a multilingual website with Jekyll, GitHub Pages and a WiredCraft theme at the University of Essex.</div>
@@ -166,10 +189,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++4" name="node" class="node" type="radio" />
-        <label for="node2++4" data-idx="2++4">2020 seeing films through sound</label>
+        <input id="node2++5" name="node" class="node" type="radio" />
+        <label for="node2++5" data-idx="2++5">2020 seeing films through sound</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> I co-edited this peer-reviewed journal paper for the AHRC funded Enhancing Audio Description project.</div>
@@ -184,10 +208,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++5" name="node" class="node" type="radio" />
-        <label for="node2++5" data-idx="2++5">2020 accessible filmmaking, sound design...</label>
+        <input id="node2++6" name="node" class="node" type="radio" />
+        <label for="node2++6" data-idx="2++6">2020 accessible filmmaking, sound design...</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> I co-edited this peer-reviewed journal paper for the AHRC funded Enhancing Audio Description project.</div>
@@ -202,10 +227,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++6" name="node" class="node" type="radio" />
-        <label for="node2++6" data-idx="2++6">2019 making assessment practices inclusive</label>
+        <input id="node2++7" name="node" class="node" type="radio" />
+        <label for="node2++7" data-idx="2++7">2019 making assessment practices inclusive</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> My experience in learning and teaching as a non-native in the UK has led me to consider that non-native students in an English-speaking country also suffer a form of socio-economic inequality.</div>
@@ -220,10 +246,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++7" name="node" class="node" type="radio" />
-        <label for="node2++7" data-idx="2++7">2019 self and peer assessment tool and rationale</label>
+        <input id="node2++8" name="node" class="node" type="radio" />
+        <label for="node2++8" data-idx="2++8">2019 self and peer assessment tool and rationale</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> An online tool to help students become active participants in the process of self and peer assessment.</div>
@@ -238,10 +265,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++8" name="node" class="node" type="radio" />
-        <label for="node2++8" data-idx="2++8">2019 sonic art</label>
+        <input id="node2++9" name="node" class="node" type="radio" />
+        <label for="node2++9" data-idx="2++9">2019 sonic art</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
           <br /><br />
           <div class="short"> A 15 credit module where the cohort discussed the theoretical and practical aspects of sonic art and then produced work around these ideas.</div>
@@ -256,10 +284,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++9" name="node" class="node" type="radio" />
-        <label for="node2++9" data-idx="2++9">2018 thoughts on game audio</label>
+        <input id="node2++10" name="node" class="node" type="radio" />
+        <label for="node2++10" data-idx="2++10">2018 thoughts on game audio</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> Why make audio for games? What does audio in films and games do?</div>
@@ -274,10 +303,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++10" name="node" class="node" type="radio" />
-        <label for="node2++10" data-idx="2++10">2018 short history of film music</label>
+        <input id="node2++11" name="node" class="node" type="radio" />
+        <label for="node2++11" data-idx="2++11">2018 short history of film music</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> To find inspiration and examples of good practice, we briefly investigate the moving image culture in historical context with examples of silent films, talkies, studio systems and important musical styles.</div>
@@ -292,10 +322,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++11" name="node" class="node" type="radio" />
-        <label for="node2++11" data-idx="2++11">2018 synaesthesia and visual music</label>
+        <input id="node2++12" name="node" class="node" type="radio" />
+        <label for="node2++12" data-idx="2++12">2018 synaesthesia and visual music</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> Artists have been interested in translating visual information to sound and vica versa. Why do we (they) do this?</div>
@@ -310,10 +341,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++12" name="node" class="node" type="radio" />
-        <label for="node2++12" data-idx="2++12">2018 sensor technology</label>
+        <input id="node2++13" name="node" class="node" type="radio" />
+        <label for="node2++13" data-idx="2++13">2018 sensor technology</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
           <br /><br />
           <div class="short"> A 15 credit module concentrating on aspects of technology that encourage live performance and audio manipulation, this module was designed to provide the knowledge and opportunity for students to create their own performances and sonic installations.</div>
@@ -328,10 +360,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++13" name="node" class="node" type="radio" />
-        <label for="node2++13" data-idx="2++13">2018 music for the moving image</label>
+        <input id="node2++14" name="node" class="node" type="radio" />
+        <label for="node2++14" data-idx="2++14">2018 music for the moving image</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
           <br /><br />
           <div class="short"> A 15 credit module that allowed students to create original music and sound design that experiments with poetry, short films and video games using acoustic and computer-based methods of composition.</div>
@@ -346,10 +379,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++14" name="node" class="node" type="radio" />
-        <label for="node2++14" data-idx="2++14">2018 imaginary soundscape - poetry to music</label>
+        <input id="node2++15" name="node" class="node" type="radio" />
+        <label for="node2++15" data-idx="2++15">2018 imaginary soundscape - poetry to music</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> How does a landscape sound? How does a poem sound? A presentation outline with quick ideas for sonification and musification.</div>
@@ -364,10 +398,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++15" name="node" class="node" type="radio" />
-        <label for="node2++15" data-idx="2++15">2018 storylab research</label>
+        <input id="node2++16" name="node" class="node" type="radio" />
+        <label for="node2++16" data-idx="2++16">2018 storylab research</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>academic</em>
           <br /><br />
           <div class="short"> Besides events organising and audio post-production, my main task as a research assistant in the StoryLab Research Institute have been to edit, maintain and update our research website that I designed in 2018.</div>
@@ -382,10 +417,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++16" name="node" class="node" type="radio" />
-        <label for="node2++16" data-idx="2++16">2018 audio description in the UK</label>
+        <input id="node2++17" name="node" class="node" type="radio" />
+        <label for="node2++17" data-idx="2++17">2018 audio description in the UK</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> I co-edited this peer-reviewed journal paper for the AHRC funded Enhancing Audio Description project.</div>
@@ -400,10 +436,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++17" name="node" class="node" type="radio" />
-        <label for="node2++17" data-idx="2++17">2017 recitativo 395 gallery london</label>
+        <input id="node2++18" name="node" class="node" type="radio" />
+        <label for="node2++18" data-idx="2++18">2017 recitativo 395 gallery london</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> For David Ryan's Recitative project I was the live sound engineer and the photographer.</div>
@@ -418,10 +455,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++18" name="node" class="node" type="radio" />
-        <label for="node2++18" data-idx="2++18">2016 laptop performance</label>
+        <input id="node2++19" name="node" class="node" type="radio" />
+        <label for="node2++19" data-idx="2++19">2016 laptop performance</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
           <br /><br />
           <div class="short"> A 15 credit module where students developed their knowledge of digital audio and traditional music theory by creating and performing their own musical works using the laptop computer as the main musical instrument.</div>
@@ -436,10 +474,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++19" name="node" class="node" type="radio" />
-        <label for="node2++19" data-idx="2++19">2016 photography</label>
+        <input id="node2++20" name="node" class="node" type="radio" />
+        <label for="node2++20" data-idx="2++20">2016 photography</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>visual art</em>
           <br /><br />
           <div class="short"> Flick albums.</div>
@@ -462,10 +501,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++22" name="node" class="node" type="radio" />
-        <label for="node2++22" data-idx="2++22">2015 pictures of you</label>
+        <input id="node2++23" name="node" class="node" type="radio" />
+        <label for="node2++23" data-idx="2++23">2015 pictures of you</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release featuring compositions for a theatre play.</div>
@@ -480,10 +520,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++23" name="node" class="node" type="radio" />
-        <label for="node2++23" data-idx="2++23">2015 funky flamingo workshop</label>
+        <input id="node2++24" name="node" class="node" type="radio" />
+        <label for="node2++24" data-idx="2++24">2015 funky flamingo workshop</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
           <br /><br />
           <div class="short"> An audio-video workshop for two members of the Cambridge based Funky Flamingo Club, an organisation for people with disabilities.</div>
@@ -498,10 +539,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++24" name="node" class="node" type="radio" />
-        <label for="node2++24" data-idx="2++24">2014 semaphore</label>
+        <input id="node2++25" name="node" class="node" type="radio" />
+        <label for="node2++25" data-idx="2++25">2014 semaphore</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>visual art</em>
           <br /><br />
           <div class="short"> A cross-domain, multi-modal and experimental entertainment by Richard Hoadley.</div>
@@ -516,10 +558,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++25" name="node" class="node" type="radio" />
-        <label for="node2++25" data-idx="2++25">2014 swimming</label>
+        <input id="node2++26" name="node" class="node" type="radio" />
+        <label for="node2++26" data-idx="2++26">2014 swimming</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release with sound design and composition for Jane Upton’s 'Swimming', a theatre play directed by Paul Bourne at Menagerie, Cambridge. The music is mainly electronic with elements of hip-hop and drum and bass.</div>
@@ -538,10 +581,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++27" name="node" class="node" type="radio" />
-        <label for="node2++27" data-idx="2++27">2014 edm music production</label>
+        <input id="node2++28" name="node" class="node" type="radio" />
+        <label for="node2++28" data-idx="2++28">2014 edm music production</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Techno, trance, experimental electronic dance music ... to finish sometime.</div>
@@ -556,10 +600,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++28" name="node" class="node" type="radio" />
-        <label for="node2++28" data-idx="2++28">2014 audio showreel 2014</label>
+        <input id="node2++29" name="node" class="node" type="radio" />
+        <label for="node2++29" data-idx="2++29">2014 audio showreel 2014</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Two showreels featuring work for games and films.</div>
@@ -574,10 +619,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++29" name="node" class="node" type="radio" />
-        <label for="node2++29" data-idx="2++29">2013 focus trial +</label>
+        <input id="node2++30" name="node" class="node" type="radio" />
+        <label for="node2++30" data-idx="2++30">2013 focus trial +</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Stream of compositions made live with my Focus prototype, a SuperCollider sequencer generating random musical pattern.</div>
@@ -592,10 +638,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++30" name="node" class="node" type="radio" />
-        <label for="node2++30" data-idx="2++30">2013 focus trial</label>
+        <input id="node2++31" name="node" class="node" type="radio" />
+        <label for="node2++31" data-idx="2++31">2013 focus trial</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A musical release featuring compositions made with the Focus prototype, a SuperCollider sequencer generating random musical pattern.</div>
@@ -610,10 +657,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++31" name="node" class="node" type="radio" />
-        <label for="node2++31" data-idx="2++31">2013 stormbrothers</label>
+        <input id="node2++32" name="node" class="node" type="radio" />
+        <label for="node2++32" data-idx="2++32">2013 stormbrothers</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A fusion of celtic &amp; electronic music for the award winning platform game, Stormbrothers.</div>
@@ -628,10 +676,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++32" name="node" class="node" type="radio" />
-        <label for="node2++32" data-idx="2++32">2013 focus prototype</label>
+        <input id="node2++33" name="node" class="node" type="radio" />
+        <label for="node2++33" data-idx="2++33">2013 focus prototype</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Focus (the prototype) is a musical game that by measuring real-time EEG data aims to help reduce stress. To reward the participant whenever a challenge is completed, the neurofeedback system generates or alters preset and generative musical expressions.</div>
@@ -646,10 +695,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++33" name="node" class="node" type="radio" />
-        <label for="node2++33" data-idx="2++33">2013 secret place and remixes</label>
+        <input id="node2++34" name="node" class="node" type="radio" />
+        <label for="node2++34" data-idx="2++34">2013 secret place and remixes</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release interpreting stories from my 'secret place', a special state of mind.</div>
@@ -668,10 +718,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++35" name="node" class="node" type="radio" />
-        <label for="node2++35" data-idx="2++35">2012 cb1art</label>
+        <input id="node2++36" name="node" class="node" type="radio" />
+        <label for="node2++36" data-idx="2++36">2012 cb1art</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>project management</em>
           <br /><br />
           <div class="short"> Some materialised ideas in CB1 Internet Cafe, Cambridge.</div>
@@ -686,10 +737,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++36" name="node" class="node" type="radio" />
-        <label for="node2++36" data-idx="2++36">2011 play</label>
+        <input id="node2++37" name="node" class="node" type="radio" />
+        <label for="node2++37" data-idx="2++37">2011 play</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release playing with bright and dark ideas.</div>
@@ -704,10 +756,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++37" name="node" class="node" type="radio" />
-        <label for="node2++37" data-idx="2++37">2011 secret place hci</label>
+        <input id="node2++38" name="node" class="node" type="radio" />
+        <label for="node2++38" data-idx="2++38">2011 secret place hci</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A human computer interface with infrared sensors controls parameters of a soundscape e.g. spacialisation and instrument volume.</div>
@@ -722,10 +775,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++38" name="node" class="node" type="radio" />
-        <label for="node2++38" data-idx="2++38">2011 strophic variables</label>
+        <input id="node2++39" name="node" class="node" type="radio" />
+        <label for="node2++39" data-idx="2++39">2011 strophic variables</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Interactive sonic art installation using ultrasonic sensors and light dependent resistors to manipulate sound and visuals.</div>
@@ -740,10 +794,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++39" name="node" class="node" type="radio" />
-        <label for="node2++39" data-idx="2++39">2010 rhythm workshop</label>
+        <input id="node2++40" name="node" class="node" type="radio" />
+        <label for="node2++40" data-idx="2++40">2010 rhythm workshop</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>teaching</em>
           <br /><br />
           <div class="short"> A creative music workshop in Hungary.</div>
@@ -758,10 +813,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++40" name="node" class="node" type="radio" />
-        <label for="node2++40" data-idx="2++40">2010 attention! attention!</label>
+        <input id="node2++41" name="node" class="node" type="radio" />
+        <label for="node2++41" data-idx="2++41">2010 attention! attention!</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> Essay on the use of 'focus &amp; attention' in sonic art [editing required].</div>
@@ -776,10 +832,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++41" name="node" class="node" type="radio" />
-        <label for="node2++41" data-idx="2++41">2010 violin exp</label>
+        <input id="node2++42" name="node" class="node" type="radio" />
+        <label for="node2++42" data-idx="2++42">2010 violin exp</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release with traditional instruments and electronica.</div>
@@ -794,10 +851,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++42" name="node" class="node" type="radio" />
-        <label for="node2++42" data-idx="2++42">2010 digitones</label>
+        <input id="node2++43" name="node" class="node" type="radio" />
+        <label for="node2++43" data-idx="2++43">2010 digitones</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Experimental electronica with traditional instruments influenced by the music of Steve Reich.</div>
@@ -812,10 +870,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++43" name="node" class="node" type="radio" />
-        <label for="node2++43" data-idx="2++43">2009 sensor technology projects</label>
+        <input id="node2++44" name="node" class="node" type="radio" />
+        <label for="node2++44" data-idx="2++44">2009 sensor technology projects</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Three sensor technology projects using hand gestures and offline brainwave data to control sound textures.</div>
@@ -830,10 +889,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++44" name="node" class="node" type="radio" />
-        <label for="node2++44" data-idx="2++44">2009 deeper</label>
+        <input id="node2++45" name="node" class="node" type="radio" />
+        <label for="node2++45" data-idx="2++45">2009 deeper</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release with dark electronic music.</div>
@@ -848,10 +908,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++45" name="node" class="node" type="radio" />
-        <label for="node2++45" data-idx="2++45">2009 flow in metamorphosis</label>
+        <input id="node2++46" name="node" class="node" type="radio" />
+        <label for="node2++46" data-idx="2++46">2009 flow in metamorphosis</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release with alternative music and sound-design for the original Flow game.</div>
@@ -866,10 +927,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++46" name="node" class="node" type="radio" />
-        <label for="node2++46" data-idx="2++46">2009 an investigation of the use of eeg data</label>
+        <input id="node2++47" name="node" class="node" type="radio" />
+        <label for="node2++47" data-idx="2++47">2009 an investigation of the use of eeg data</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> The BA dissertation introducing my early experiments with Brain-Computer Music Interfacing.</div>
@@ -884,10 +946,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++47" name="node" class="node" type="radio" />
-        <label for="node2++47" data-idx="2++47">2009 acousmatic programming</label>
+        <input id="node2++48" name="node" class="node" type="radio" />
+        <label for="node2++48" data-idx="2++48">2009 acousmatic programming</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release featuring acousmatic music and experimental electronica.</div>
@@ -902,10 +965,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++48" name="node" class="node" type="radio" />
-        <label for="node2++48" data-idx="2++48">2009 if only</label>
+        <input id="node2++49" name="node" class="node" type="radio" />
+        <label for="node2++49" data-idx="2++49">2009 if only</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> A music release featuring compositions reflecting on the idea of freedom and a remix of Karl Lauefer's house track 'Mondillo De Fujer'.</div>
@@ -920,10 +984,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++49" name="node" class="node" type="radio" />
-        <label for="node2++49" data-idx="2++49">2009 poetry 2009 (hungarian)</label>
+        <input id="node2++50" name="node" class="node" type="radio" />
+        <label for="node2++50" data-idx="2++50">2009 poetry 2009 (hungarian)</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>writing</em>
           <br /><br />
           <div class="short"> A few abstract poems in Hungarian language.</div>
@@ -938,10 +1003,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++50" name="node" class="node" type="radio" />
-        <label for="node2++50" data-idx="2++50">2005 studio and live music mixes</label>
+        <input id="node2++51" name="node" class="node" type="radio" />
+        <label for="node2++51" data-idx="2++51">2005 studio and live music mixes</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>music</em>
           <br /><br />
           <div class="short"> Music mixes linking some of my favourites.</div>
@@ -956,10 +1022,11 @@ there is also a file added in layouts: external.html and the posts amended accor
       
       
       <li>
-        <input id="node2++51" name="node" class="node" type="radio" />
-        <label for="node2++51" data-idx="2++51">2005 painting 2005</label>
+        <input id="node2++52" name="node" class="node" type="radio" />
+        <label for="node2++52" data-idx="2++52">2005 painting 2005</label>
         <ul>
           <li>
+            <br />
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>visual art</em>
           <br /><br />
           <div class="short"> Abstract oil paintings on pressed wood.</div>
@@ -1028,7 +1095,7 @@ there is also a file added in layouts: external.html and the posts amended accor
       <ul>
         <li>
         <br />
-        <div class="short"> In this AHRC funded project, we sought to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences. The research included the application of surround sound rendering, interactive media systems and first person narration. My key responsibilities were organising events, engagement with organisations and participants, qualitative and quantitative data analysis, web-design and maintenance, photography, audio-video production and co-authoring journal papers. </div>
+        <div class="short"> In this AHRC funded project, we seek to explore how sound design techniques can be used to rethink accessibility to film and television for visually impaired audiences. </div>
         <br />
         <a href="http://enhancingaudiodescription.com/people/"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
       </li>
@@ -1496,7 +1563,24 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     <li>
       <input id="node3++4++1" name="node" class="node" type="radio" />
-      <label for="node3++4++1" data-idx="3++4++1">2020 multilingual website workshops</label>
+      <label for="node3++4++1" data-idx="3++4++1">(ongoing) navigating the digital world</label>
+      <ul>
+        <li>
+        <br />
+        <div class="short"> The module aims to help develop our personal and professional/institutional resident identities on the Web i.e. resident modes of engaging on the Web. </div>
+        <br />
+        <a href="https://github.com/krisztian-hofstadter-tedor/CS220-AU-navigating-the-digital-world"> <svg height="13" viewBox="0 0 1792 1792" width="13" xmlns="http://www.w3.org/2000/svg"><path d="m1408 928v-480q0-26-19-45t-45-19h-480q-42 0-59 39-17 41 14 70l144 144-534 534q-19 19-19 45t19 45l102 102q19 19 45 19t45-19l534-534 144 144q18 19 45 19 12 0 25-5 39-17 39-59zm256-512v960q0 119-84.5 203.5t-203.5 84.5h-960q-119 0-203.5-84.5t-84.5-203.5v-960q0-119 84.5-203.5t203.5-84.5h960q119 0 203.5 84.5t84.5 203.5z" /></svg></a>
+      </li>
+      </ul>
+    </li>
+    
+    
+    
+    
+    
+    <li>
+      <input id="node3++4++2" name="node" class="node" type="radio" />
+      <label for="node3++4++2" data-idx="3++4++2">2020 multilingual website workshops</label>
       <ul>
         <li>
         <br />
@@ -1512,8 +1596,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++4++2" name="node" class="node" type="radio" />
-      <label for="node3++4++2" data-idx="3++4++2">2019 sonic art</label>
+      <input id="node3++4++3" name="node" class="node" type="radio" />
+      <label for="node3++4++3" data-idx="3++4++3">2019 sonic art</label>
       <ul>
         <li>
         <br />
@@ -1529,8 +1613,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++4++3" name="node" class="node" type="radio" />
-      <label for="node3++4++3" data-idx="3++4++3">2018 sensor technology</label>
+      <input id="node3++4++4" name="node" class="node" type="radio" />
+      <label for="node3++4++4" data-idx="3++4++4">2018 sensor technology</label>
       <ul>
         <li>
         <br />
@@ -1546,8 +1630,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++4++4" name="node" class="node" type="radio" />
-      <label for="node3++4++4" data-idx="3++4++4">2018 music for the moving image</label>
+      <input id="node3++4++5" name="node" class="node" type="radio" />
+      <label for="node3++4++5" data-idx="3++4++5">2018 music for the moving image</label>
       <ul>
         <li>
         <br />
@@ -1563,8 +1647,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++4++5" name="node" class="node" type="radio" />
-      <label for="node3++4++5" data-idx="3++4++5">2016 laptop performance</label>
+      <input id="node3++4++6" name="node" class="node" type="radio" />
+      <label for="node3++4++6" data-idx="3++4++6">2016 laptop performance</label>
       <ul>
         <li>
         <br />
@@ -1580,8 +1664,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++4++6" name="node" class="node" type="radio" />
-      <label for="node3++4++6" data-idx="3++4++6">2015 funky flamingo workshop</label>
+      <input id="node3++4++7" name="node" class="node" type="radio" />
+      <label for="node3++4++7" data-idx="3++4++7">2015 funky flamingo workshop</label>
       <ul>
         <li>
         <br />
@@ -1597,8 +1681,8 @@ there is also a file added in layouts: external.html and the posts amended accor
     
     
     <li>
-      <input id="node3++4++7" name="node" class="node" type="radio" />
-      <label for="node3++4++7" data-idx="3++4++7">2010 rhythm workshop</label>
+      <input id="node3++4++8" name="node" class="node" type="radio" />
+      <label for="node3++4++8" data-idx="3++4++8">2010 rhythm workshop</label>
       <ul>
         <li>
         <br />
@@ -1917,2159 +2001,6 @@ there is also a file added in layouts: external.html and the posts amended accor
 
 
 </div>
-
-<!-- <div id="tags" class="tabcontent">
-  <!--https://hyunyoung2.github.io/2016/12/17/Category_And_Tags_In_Jekyll/-->
-
-<div class="tags-expo">
-  <div class="tags-expo-list">
-    
-    <a href="#visual-art" class="post-tag">visual art</a>
-    |
-    
-    <a href="#painting" class="post-tag">painting</a>
-    |
-    
-    <a href="#music" class="post-tag">music</a>
-    |
-    
-    <a href="#writing" class="post-tag">writing</a>
-    |
-    
-    <a href="#poetry" class="post-tag">poetry</a>
-    |
-    
-    <a href="#music-release" class="post-tag">music release</a>
-    |
-    
-    <a href="#remix" class="post-tag">remix</a>
-    |
-    
-    <a href="#experimental-electronica" class="post-tag">experimental electronica</a>
-    |
-    
-    <a href="#supercollider" class="post-tag">SuperCollider</a>
-    |
-    
-    <a href="#max" class="post-tag">Max</a>
-    |
-    
-    <a href="#paper" class="post-tag">paper</a>
-    |
-    
-    <a href="#bci" class="post-tag">bci</a>
-    |
-    
-    <a href="#programming" class="post-tag">programming</a>
-    |
-    
-    <a href="#installation" class="post-tag">installation</a>
-    |
-    
-    <a href="#dark" class="post-tag">dark</a>
-    |
-    
-    <a href="#game-music" class="post-tag">game music</a>
-    |
-    
-    <a href="#sonification" class="post-tag">sonification</a>
-    |
-    
-    <a href="#hand-gestures" class="post-tag">hand gestures</a>
-    |
-    
-    <a href="#camera" class="post-tag">camera</a>
-    |
-    
-    <a href="#generative" class="post-tag">generative</a>
-    |
-    
-    <a href="#microsound" class="post-tag">microsound</a>
-    |
-    
-    <a href="#eeg" class="post-tag">EEG</a>
-    |
-    
-    <a href="#computer-aided-acoustic-music" class="post-tag">computer aided acoustic music</a>
-    |
-    
-    <a href="#experimental" class="post-tag">experimental</a>
-    |
-    
-    <a href="#sonic-art" class="post-tag">sonic art</a>
-    |
-    
-    <a href="#attention" class="post-tag">attention</a>
-    |
-    
-    <a href="#focusing" class="post-tag">focusing</a>
-    |
-    
-    <a href="#teaching" class="post-tag">teaching</a>
-    |
-    
-    <a href="#drumming" class="post-tag">drumming</a>
-    |
-    
-    <a href="#event" class="post-tag">event</a>
-    |
-    
-    <a href="#processing" class="post-tag">Processing</a>
-    |
-    
-    <a href="#ultrasonic-sensor" class="post-tag">ultrasonic sensor</a>
-    |
-    
-    <a href="#ldr" class="post-tag">LDR</a>
-    |
-    
-    <a href="#infrared-sensor" class="post-tag">infrared sensor</a>
-    |
-    
-    <a href="#project-management" class="post-tag">project management</a>
-    |
-    
-    <a href="#wordpress" class="post-tag">wordpress</a>
-    |
-    
-    <a href="#events" class="post-tag">events</a>
-    |
-    
-    <a href="#food" class="post-tag">food</a>
-    |
-    
-    <a href="#ongoing" class="post-tag">ongoing</a>
-    |
-    
-    <a href="#web-design" class="post-tag">web-design</a>
-    |
-    
-    <a href="#electronic-dance-music" class="post-tag">electronic dance music</a>
-    |
-    
-    <a href="#bcmi" class="post-tag">bcmi</a>
-    |
-    
-    <a href="#neurofeedback" class="post-tag">neurofeedback</a>
-    |
-    
-    <a href="#neurosky" class="post-tag">neurosky</a>
-    |
-    
-    <a href="#neurogame" class="post-tag">neurogame</a>
-    |
-    
-    <a href="#film" class="post-tag">film</a>
-    |
-    
-    <a href="#games" class="post-tag">games</a>
-    |
-    
-    <a href="#edm" class="post-tag">EDM</a>
-    |
-    
-    <a href="#audio-video" class="post-tag">audio-video</a>
-    |
-    
-    <a href="#production" class="post-tag">production</a>
-    |
-    
-    <a href="#dvd-production" class="post-tag">DVD production</a>
-    |
-    
-    <a href="#theatre" class="post-tag">theatre</a>
-    |
-    
-    <a href="#electronic-music" class="post-tag">electronic music</a>
-    |
-    
-    <a href="#audio-video-production" class="post-tag">audio-video production</a>
-    |
-    
-    <a href="#video" class="post-tag">video</a>
-    |
-    
-    <a href="#photo" class="post-tag">photo</a>
-    |
-    
-    <a href="#dvd" class="post-tag">DVD</a>
-    |
-    
-    <a href="#accessibility" class="post-tag">accessibility</a>
-    |
-    
-    <a href="#sound-design" class="post-tag">sound-design</a>
-    |
-    
-    <a href="#photography" class="post-tag">photography</a>
-    |
-    
-    <a href="#academic" class="post-tag">academic</a>
-    |
-    
-    <a href="#eeg" class="post-tag">eeg</a>
-    |
-    
-    <a href="#musification" class="post-tag">musification</a>
-    |
-    
-    <a href="#neuro-feedback" class="post-tag">neuro-feedback</a>
-    |
-    
-    <a href="#supercollider" class="post-tag">supercollider</a>
-    |
-    
-    <a href="#web-design" class="post-tag">web design</a>
-    |
-    
-    <a href="#enhancing-audio-description" class="post-tag">enhancing audio description</a>
-    |
-    
-    <a href="#performance" class="post-tag">performance</a>
-    |
-    
-    <a href="#laptop" class="post-tag">laptop</a>
-    |
-    
-    <a href="#sound-engineer" class="post-tag">sound engineer</a>
-    |
-    
-    <a href="#recitativo" class="post-tag">recitativo</a>
-    |
-    
-    <a href="#david-ryan" class="post-tag">david ryan</a>
-    |
-    
-    <a href="#research-assistant" class="post-tag">research assistant</a>
-    |
-    
-    <a href="#imaginary-soundscapes" class="post-tag">imaginary soundscapes</a>
-    |
-    
-    <a href="#imagination" class="post-tag">imagination</a>
-    |
-    
-    <a href="#compositional-methods" class="post-tag">compositional methods</a>
-    |
-    
-    <a href="#listening-types" class="post-tag">listening types</a>
-    |
-    
-    <a href="#meditation" class="post-tag">meditation</a>
-    |
-    
-    <a href="#states-of-mind" class="post-tag">states of mind</a>
-    |
-    
-    <a href="#hci" class="post-tag">hci</a>
-    |
-    
-    <a href="#arduino" class="post-tag">Arduino</a>
-    |
-    
-    <a href="#synaesthesia" class="post-tag">synaesthesia</a>
-    |
-    
-    <a href="#visual-music" class="post-tag">visual music</a>
-    |
-    
-    <a href="#history" class="post-tag">history</a>
-    |
-    
-    <a href="#film-music" class="post-tag">film music</a>
-    |
-    
-    <a href="#silent-films" class="post-tag">silent Films</a>
-    |
-    
-    <a href="#huxley" class="post-tag">huxley</a>
-    |
-    
-    <a href="#chaplin" class="post-tag">chaplin</a>
-    |
-    
-    <a href="#game-audio" class="post-tag">game audio</a>
-    |
-    
-    <a href="#3d-sound" class="post-tag">3d sound</a>
-    |
-    
-    <a href="#website" class="post-tag">website</a>
-    |
-    
-    <a href="#translation" class="post-tag">translation</a>
-    |
-    
-    <a href="#github-pages" class="post-tag">GitHub Pages</a>
-    |
-    
-    <a href="#html" class="post-tag">HTML</a>
-    |
-    
-    <a href="#css" class="post-tag">CSS</a>
-    |
-    
-    <a href="#jekyll" class="post-tag">Jekyll</a>
-    |
-    
-    <a href="#academic-consulting" class="post-tag">academic consulting</a>
-    |
-    
-    <a href="#nfc" class="post-tag">NFC</a>
-    |
-    
-    <a href="#qr-signs" class="post-tag">QR signs</a>
-    |
-    
-    <a href="#app-development" class="post-tag">app development</a>
-    |
-    
-  </div>
-  <br /><br />
-  <div>
-    
-    <h2 id="visual-art">visual art</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/photography/">
-      <li>
-        photography
-      </li>
-      </a>
-      
-        <a class="post-title" href="/semaphore/">
-      <li>
-        semaphore
-      </li>
-      </a>
-      
-        <a class="post-title" href="/rhea-quien/">
-      <li>
-        rhea quien
-      </li>
-      </a>
-      
-        <a class="post-title" href="/painting/">
-      <li>
-        painting 2005
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="painting">painting</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/painting/">
-      <li>
-        painting 2005
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="music">music</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sonic-art/">
-      <li>
-        sonic art
-      </li>
-      </a>
-      
-        <a class="post-title" href="/game-audio/">
-      <li>
-        thoughts on game audio
-      </li>
-      </a>
-      
-        <a class="post-title" href="/short-history-of-film-music/">
-      <li>
-        short history of film music
-      </li>
-      </a>
-      
-        <a class="post-title" href="/synaesthesia-and-visual-music/">
-      <li>
-        synaesthesia and visual music
-      </li>
-      </a>
-      
-        <a class="post-title" href="/music-for-the-moving-image/">
-      <li>
-        music for the moving image
-      </li>
-      </a>
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-        <a class="post-title" href="/recitativo-395-gallery-london/">
-      <li>
-        recitativo 395 gallery london
-      </li>
-      </a>
-      
-        <a class="post-title" href="/laptop-performance/">
-      <li>
-        laptop performance
-      </li>
-      </a>
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/pictures-of-you/">
-      <li>
-        pictures of you
-      </li>
-      </a>
-      
-        <a class="post-title" href="/swimming/">
-      <li>
-        swimming
-      </li>
-      </a>
-      
-        <a class="post-title" href="/edm-music-production/">
-      <li>
-        edm music production
-      </li>
-      </a>
-      
-        <a class="post-title" href="/audio-showreel-2014/">
-      <li>
-        audio showreel 2014
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial-+/">
-      <li>
-        focus trial +
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial/">
-      <li>
-        focus trial
-      </li>
-      </a>
-      
-        <a class="post-title" href="/stormbrothers/">
-      <li>
-        stormbrothers
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-prototype/">
-      <li>
-        focus prototype
-      </li>
-      </a>
-      
-        <a class="post-title" href="/secret-place-and-remixes/">
-      <li>
-        secret place and remixes
-      </li>
-      </a>
-      
-        <a class="post-title" href="/play/">
-      <li>
-        play
-      </li>
-      </a>
-      
-        <a class="post-title" href="/secret-place-hci/">
-      <li>
-        secret place hci
-      </li>
-      </a>
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-        <a class="post-title" href="/rhythm-workshop/">
-      <li>
-        rhythm workshop
-      </li>
-      </a>
-      
-        <a class="post-title" href="/attention_attention/">
-      <li>
-        attention! attention!
-      </li>
-      </a>
-      
-        <a class="post-title" href="/violin-exp/">
-      <li>
-        violin exp
-      </li>
-      </a>
-      
-        <a class="post-title" href="/digitones/">
-      <li>
-        digitones
-      </li>
-      </a>
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-        <a class="post-title" href="/deeper/">
-      <li>
-        deeper
-      </li>
-      </a>
-      
-        <a class="post-title" href="/flow-in-metamorphosis/">
-      <li>
-        flow in metamorphosis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/an-investigation-of-the-use-of-eeg-data/">
-      <li>
-        an investigation of the use of eeg data
-      </li>
-      </a>
-      
-        <a class="post-title" href="/acousmatic-programming/">
-      <li>
-        acousmatic programming
-      </li>
-      </a>
-      
-        <a class="post-title" href="/if-only/">
-      <li>
-        if only
-      </li>
-      </a>
-      
-        <a class="post-title" href="/mixes/">
-      <li>
-        studio and live music mixes
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="writing">writing</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/seeing-films-through-sound/">
-      <li>
-        seeing films through sound
-      </li>
-      </a>
-      
-        <a class="post-title" href="/enhancing-audio-description-paper/">
-      <li>
-        accessible filmmaking, sound design...
-      </li>
-      </a>
-      
-        <a class="post-title" href="/strategies-for-making-assessment-practices-inclusive/">
-      <li>
-        making assessment practices inclusive
-      </li>
-      </a>
-      
-        <a class="post-title" href="/self-and-peer-assessment-tool-and-rationale/">
-      <li>
-        self and peer assessment tool and rationale
-      </li>
-      </a>
-      
-        <a class="post-title" href="/game-audio/">
-      <li>
-        thoughts on game audio
-      </li>
-      </a>
-      
-        <a class="post-title" href="/short-history-of-film-music/">
-      <li>
-        short history of film music
-      </li>
-      </a>
-      
-        <a class="post-title" href="/synaesthesia-and-visual-music/">
-      <li>
-        synaesthesia and visual music
-      </li>
-      </a>
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-        <a class="post-title" href="/audio-description-in-the-uk/">
-      <li>
-        audio description in the UK
-      </li>
-      </a>
-      
-        <a class="post-title" href="/attention_attention/">
-      <li>
-        attention! attention!
-      </li>
-      </a>
-      
-        <a class="post-title" href="/an-investigation-of-the-use-of-eeg-data/">
-      <li>
-        an investigation of the use of eeg data
-      </li>
-      </a>
-      
-        <a class="post-title" href="/poetry-2009/">
-      <li>
-        poetry 2009 (hungarian)
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="poetry">poetry</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/poetry-2009/">
-      <li>
-        poetry 2009 (hungarian)
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="music-release">music release</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/swimming/">
-      <li>
-        swimming
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial-+/">
-      <li>
-        focus trial +
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial/">
-      <li>
-        focus trial
-      </li>
-      </a>
-      
-        <a class="post-title" href="/stormbrothers/">
-      <li>
-        stormbrothers
-      </li>
-      </a>
-      
-        <a class="post-title" href="/secret-place-and-remixes/">
-      <li>
-        secret place and remixes
-      </li>
-      </a>
-      
-        <a class="post-title" href="/play/">
-      <li>
-        play
-      </li>
-      </a>
-      
-        <a class="post-title" href="/violin-exp/">
-      <li>
-        violin exp
-      </li>
-      </a>
-      
-        <a class="post-title" href="/digitones/">
-      <li>
-        digitones
-      </li>
-      </a>
-      
-        <a class="post-title" href="/deeper/">
-      <li>
-        deeper
-      </li>
-      </a>
-      
-        <a class="post-title" href="/flow-in-metamorphosis/">
-      <li>
-        flow in metamorphosis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/acousmatic-programming/">
-      <li>
-        acousmatic programming
-      </li>
-      </a>
-      
-        <a class="post-title" href="/if-only/">
-      <li>
-        if only
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="remix">remix</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/secret-place-and-remixes/">
-      <li>
-        secret place and remixes
-      </li>
-      </a>
-      
-        <a class="post-title" href="/deeper/">
-      <li>
-        deeper
-      </li>
-      </a>
-      
-        <a class="post-title" href="/if-only/">
-      <li>
-        if only
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="experimental-electronica">experimental electronica</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/play/">
-      <li>
-        play
-      </li>
-      </a>
-      
-        <a class="post-title" href="/digitones/">
-      <li>
-        digitones
-      </li>
-      </a>
-      
-        <a class="post-title" href="/acousmatic-programming/">
-      <li>
-        acousmatic programming
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="supercollider">SuperCollider</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology/">
-      <li>
-        sensor technology
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial-+/">
-      <li>
-        focus trial +
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial/">
-      <li>
-        focus trial
-      </li>
-      </a>
-      
-        <a class="post-title" href="/stormbrothers/">
-      <li>
-        stormbrothers
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-prototype/">
-      <li>
-        focus prototype
-      </li>
-      </a>
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-        <a class="post-title" href="/flow-in-metamorphosis/">
-      <li>
-        flow in metamorphosis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/acousmatic-programming/">
-      <li>
-        acousmatic programming
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="max">Max</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology/">
-      <li>
-        sensor technology
-      </li>
-      </a>
-      
-        <a class="post-title" href="/secret-place-hci/">
-      <li>
-        secret place hci
-      </li>
-      </a>
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-        <a class="post-title" href="/acousmatic-programming/">
-      <li>
-        acousmatic programming
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="paper">paper</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/an-investigation-of-the-use-of-eeg-data/">
-      <li>
-        an investigation of the use of eeg data
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="bci">bci</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/secret-place-hci/">
-      <li>
-        secret place hci
-      </li>
-      </a>
-      
-        <a class="post-title" href="/an-investigation-of-the-use-of-eeg-data/">
-      <li>
-        an investigation of the use of eeg data
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="programming">programming</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial-+/">
-      <li>
-        focus trial +
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-trial/">
-      <li>
-        focus trial
-      </li>
-      </a>
-      
-        <a class="post-title" href="/stormbrothers/">
-      <li>
-        stormbrothers
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-prototype/">
-      <li>
-        focus prototype
-      </li>
-      </a>
-      
-        <a class="post-title" href="/secret-place-hci/">
-      <li>
-        secret place hci
-      </li>
-      </a>
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-        <a class="post-title" href="/flow-in-metamorphosis/">
-      <li>
-        flow in metamorphosis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/an-investigation-of-the-use-of-eeg-data/">
-      <li>
-        an investigation of the use of eeg data
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="installation">installation</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-        <a class="post-title" href="/an-investigation-of-the-use-of-eeg-data/">
-      <li>
-        an investigation of the use of eeg data
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="dark">dark</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/deeper/">
-      <li>
-        deeper
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="game-music">game music</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/stormbrothers/">
-      <li>
-        stormbrothers
-      </li>
-      </a>
-      
-        <a class="post-title" href="/deeper/">
-      <li>
-        deeper
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="sonification">sonification</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="hand-gestures">hand gestures</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="camera">camera</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="generative">generative</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/game-audio/">
-      <li>
-        thoughts on game audio
-      </li>
-      </a>
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="microsound">microsound</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="eeg">EEG</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology-projects/">
-      <li>
-        sensor technology projects
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="computer-aided-acoustic-music">computer aided acoustic music</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/violin-exp/">
-      <li>
-        violin exp
-      </li>
-      </a>
-      
-        <a class="post-title" href="/digitones/">
-      <li>
-        digitones
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="experimental">experimental</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/violin-exp/">
-      <li>
-        violin exp
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="sonic-art">sonic art</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/attention_attention/">
-      <li>
-        attention! attention!
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="attention">attention</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/attention_attention/">
-      <li>
-        attention! attention!
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="focusing">focusing</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/attention_attention/">
-      <li>
-        attention! attention!
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="teaching">teaching</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/multilingual-website-workshops/">
-      <li>
-        multilingual website workshops
-      </li>
-      </a>
-      
-        <a class="post-title" href="/strategies-for-making-assessment-practices-inclusive/">
-      <li>
-        making assessment practices inclusive
-      </li>
-      </a>
-      
-        <a class="post-title" href="/self-and-peer-assessment-tool-and-rationale/">
-      <li>
-        self and peer assessment tool and rationale
-      </li>
-      </a>
-      
-        <a class="post-title" href="/sonic-art/">
-      <li>
-        sonic art
-      </li>
-      </a>
-      
-        <a class="post-title" href="/sensor-technology/">
-      <li>
-        sensor technology
-      </li>
-      </a>
-      
-        <a class="post-title" href="/music-for-the-moving-image/">
-      <li>
-        music for the moving image
-      </li>
-      </a>
-      
-        <a class="post-title" href="/laptop-performance/">
-      <li>
-        laptop performance
-      </li>
-      </a>
-      
-        <a class="post-title" href="/funcky-flamingo-workshop/">
-      <li>
-        funky flamingo workshop
-      </li>
-      </a>
-      
-        <a class="post-title" href="/rhythm-workshop/">
-      <li>
-        rhythm workshop
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="drumming">drumming</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/rhythm-workshop/">
-      <li>
-        rhythm workshop
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="event">event</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="processing">Processing</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology/">
-      <li>
-        sensor technology
-      </li>
-      </a>
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="ultrasonic-sensor">ultrasonic sensor</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="ldr">LDR</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/strophic-variables/">
-      <li>
-        strophic variables
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="infrared-sensor">infrared sensor</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/secret-place-hci/">
-      <li>
-        secret place hci
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="project-management">project management</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/rhea-quien/">
-      <li>
-        rhea quien
-      </li>
-      </a>
-      
-        <a class="post-title" href="/tedortea/">
-      <li>
-        tedör tea | art &amp; tea
-      </li>
-      </a>
-      
-        <a class="post-title" href="/cb1art/">
-      <li>
-        cb1art
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="wordpress">wordpress</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/storylabresearch/">
-      <li>
-        storylabresearch.com
-      </li>
-      </a>
-      
-        <a class="post-title" href="/storylab-research/">
-      <li>
-        storylab research
-      </li>
-      </a>
-      
-        <a class="post-title" href="/enhancingaudiodescription/">
-      <li>
-        enhancing audio description
-      </li>
-      </a>
-      
-        <a class="post-title" href="/tedortea/">
-      <li>
-        tedör tea | art &amp; tea
-      </li>
-      </a>
-      
-        <a class="post-title" href="/cb1art/">
-      <li>
-        cb1art
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="events">events</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/cb1art/">
-      <li>
-        cb1art
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="food">food</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/cb1art/">
-      <li>
-        cb1art
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="ongoing">ongoing</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/storylabresearch/">
-      <li>
-        storylabresearch.com
-      </li>
-      </a>
-      
-        <a class="post-title" href="/enhancingaudiodescription/">
-      <li>
-        enhancing audio description
-      </li>
-      </a>
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/rhea-quien/">
-      <li>
-        rhea quien
-      </li>
-      </a>
-      
-        <a class="post-title" href="/tedortea/">
-      <li>
-        tedör tea | art &amp; tea
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="web-design">web-design</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/storylabresearch/">
-      <li>
-        storylabresearch.com
-      </li>
-      </a>
-      
-        <a class="post-title" href="/storylab-research/">
-      <li>
-        storylab research
-      </li>
-      </a>
-      
-        <a class="post-title" href="/tedortea/">
-      <li>
-        tedör tea | art &amp; tea
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="electronic-dance-music">electronic dance music</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/secret-place-and-remixes/">
-      <li>
-        secret place and remixes
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="bcmi">bcmi</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-        <a class="post-title" href="/focus-prototype/">
-      <li>
-        focus prototype
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="neurofeedback">neurofeedback</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/focus-prototype/">
-      <li>
-        focus prototype
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="neurosky">neurosky</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/focus-prototype/">
-      <li>
-        focus prototype
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="neurogame">neurogame</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/focus-prototype/">
-      <li>
-        focus prototype
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="film">film</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/music-for-the-moving-image/">
-      <li>
-        music for the moving image
-      </li>
-      </a>
-      
-        <a class="post-title" href="/audio-showreel-2014/">
-      <li>
-        audio showreel 2014
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="games">games</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/music-for-the-moving-image/">
-      <li>
-        music for the moving image
-      </li>
-      </a>
-      
-        <a class="post-title" href="/audio-showreel-2014/">
-      <li>
-        audio showreel 2014
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="edm">EDM</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/edm-music-production/">
-      <li>
-        edm music production
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="audio-video">audio-video</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/rhea-quien/">
-      <li>
-        rhea quien
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="production">production</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/rhea-quien/">
-      <li>
-        rhea quien
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="dvd-production">DVD production</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/rhea-quien/">
-      <li>
-        rhea quien
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="theatre">theatre</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/pictures-of-you/">
-      <li>
-        pictures of you
-      </li>
-      </a>
-      
-        <a class="post-title" href="/swimming/">
-      <li>
-        swimming
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="electronic-music">electronic music</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/swimming/">
-      <li>
-        swimming
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="audio-video-production">audio-video production</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/semaphore/">
-      <li>
-        semaphore
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="video">video</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/pictures-of-you/">
-      <li>
-        pictures of you
-      </li>
-      </a>
-      
-        <a class="post-title" href="/funcky-flamingo-workshop/">
-      <li>
-        funky flamingo workshop
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="photo">photo</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/funcky-flamingo-workshop/">
-      <li>
-        funky flamingo workshop
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="dvd">DVD</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/funcky-flamingo-workshop/">
-      <li>
-        funky flamingo workshop
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="accessibility">accessibility</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/seeing-films-through-sound/">
-      <li>
-        seeing films through sound
-      </li>
-      </a>
-      
-        <a class="post-title" href="/enhancing-audio-description-paper/">
-      <li>
-        accessible filmmaking, sound design...
-      </li>
-      </a>
-      
-        <a class="post-title" href="/audio-description-in-the-uk/">
-      <li>
-        audio description in the UK
-      </li>
-      </a>
-      
-        <a class="post-title" href="/funcky-flamingo-workshop/">
-      <li>
-        funky flamingo workshop
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="sound-design">sound-design</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/pictures-of-you/">
-      <li>
-        pictures of you
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="photography">photography</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/recitativo-395-gallery-london/">
-      <li>
-        recitativo 395 gallery london
-      </li>
-      </a>
-      
-        <a class="post-title" href="/photography/">
-      <li>
-        photography
-      </li>
-      </a>
-      
-        <a class="post-title" href="/pictures-of-you/">
-      <li>
-        pictures of you
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="academic">academic</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/storylab-research/">
-      <li>
-        storylab research
-      </li>
-      </a>
-      
-        <a class="post-title" href="/enhancingaudiodescription/">
-      <li>
-        enhancing audio description
-      </li>
-      </a>
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="eeg">eeg</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="musification">musification</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="neuro-feedback">neuro-feedback</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="supercollider">supercollider</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/doctoral-thesis/">
-      <li>
-        doctoral thesis
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="web-design">web design</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/enhancingaudiodescription/">
-      <li>
-        enhancing audio description
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="enhancing-audio-description">enhancing audio description</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/seeing-films-through-sound/">
-      <li>
-        seeing films through sound
-      </li>
-      </a>
-      
-        <a class="post-title" href="/enhancing-audio-description-paper/">
-      <li>
-        accessible filmmaking, sound design...
-      </li>
-      </a>
-      
-        <a class="post-title" href="/audio-description-in-the-uk/">
-      <li>
-        audio description in the UK
-      </li>
-      </a>
-      
-        <a class="post-title" href="/enhancingaudiodescription/">
-      <li>
-        enhancing audio description
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="performance">performance</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/recitativo-395-gallery-london/">
-      <li>
-        recitativo 395 gallery london
-      </li>
-      </a>
-      
-        <a class="post-title" href="/laptop-performance/">
-      <li>
-        laptop performance
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="laptop">laptop</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/laptop-performance/">
-      <li>
-        laptop performance
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="sound-engineer">sound engineer</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/recitativo-395-gallery-london/">
-      <li>
-        recitativo 395 gallery london
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="recitativo">recitativo</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/recitativo-395-gallery-london/">
-      <li>
-        recitativo 395 gallery london
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="david-ryan">david ryan</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/recitativo-395-gallery-london/">
-      <li>
-        recitativo 395 gallery london
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="research-assistant">research assistant</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/storylab-research/">
-      <li>
-        storylab research
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="imaginary-soundscapes">imaginary soundscapes</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="imagination">imagination</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="compositional-methods">compositional methods</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="listening-types">listening types</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="meditation">meditation</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="states-of-mind">states of mind</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/imaginary-soundscape-poetry-to-music/">
-      <li>
-        imaginary soundscape - poetry to music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="hci">hci</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology/">
-      <li>
-        sensor technology
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="arduino">Arduino</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/sensor-technology/">
-      <li>
-        sensor technology
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="synaesthesia">synaesthesia</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/synaesthesia-and-visual-music/">
-      <li>
-        synaesthesia and visual music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="visual-music">visual music</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/synaesthesia-and-visual-music/">
-      <li>
-        synaesthesia and visual music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="history">history</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/short-history-of-film-music/">
-      <li>
-        short history of film music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="film-music">film music</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/short-history-of-film-music/">
-      <li>
-        short history of film music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="silent-films">silent Films</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/short-history-of-film-music/">
-      <li>
-        short history of film music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="huxley">huxley</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/short-history-of-film-music/">
-      <li>
-        short history of film music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="chaplin">chaplin</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/short-history-of-film-music/">
-      <li>
-        short history of film music
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="game-audio">game audio</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/game-audio/">
-      <li>
-        thoughts on game audio
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="3d-sound">3d sound</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/game-audio/">
-      <li>
-        thoughts on game audio
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="website">website</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/multilingual-website-workshops/">
-      <li>
-        multilingual website workshops
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="translation">translation</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/multilingual-website-workshops/">
-      <li>
-        multilingual website workshops
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="github-pages">GitHub Pages</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/multilingual-website-workshops/">
-      <li>
-        multilingual website workshops
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="html">HTML</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/multilingual-website-workshops/">
-      <li>
-        multilingual website workshops
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="css">CSS</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/multilingual-website-workshops/">
-      <li>
-        multilingual website workshops
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="jekyll">Jekyll</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/multilingual-website-workshops/">
-      <li>
-        multilingual website workshops
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="academic-consulting">academic consulting</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/regions-of-learning-consulting/">
-      <li>
-        regions of learning consulting
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="nfc">NFC</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/regions-of-learning-consulting/">
-      <li>
-        regions of learning consulting
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="qr-signs">QR signs</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/regions-of-learning-consulting/">
-      <li>
-        regions of learning consulting
-      </li>
-      </a>
-      
-    </ul>
-    
-    <h2 id="app-development">app development</h2>
-    <ul class="lists">
-      
-        <a class="post-title" href="/regions-of-learning-consulting/">
-      <li>
-        regions of learning consulting
-      </li>
-      </a>
-      
-    </ul>
-    
-  </div>
-</div>
-
-<p>&lt;/div&gt; -&gt;</p>
 
 <p><br /></p>
 
